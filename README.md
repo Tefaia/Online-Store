@@ -1,5 +1,5 @@
 # Online-Store
-ecommerce _sanity_stripe
+
 Ecommerce website with sanity and strip
 
 This is a modern, full-stack, responsive e-commerce application with payment capability. With a contemporary design, animations, the ability to add and change products while on the go using a content management system, all cutting-edge cart features, and most crucially, a full integration with Stripe so that it can handle REAL payments.
